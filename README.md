@@ -94,13 +94,13 @@ Developers that move faster than average can go ahead and complete as much exerc
 
 1. Install [Java SDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html).
 
-2. The IDE to use is [Eclipse for Java Developers](http://www.eclipse.org/downloads/). [JEE version Recommended](http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/mars1).
+2. The IDE to use is [Eclipse for Java Developers](http://www.eclipse.org/downloads/). [JEE version Recommended](http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/mars1). Or [IntelliJ](https://www.jetbrains.com/idea/download/)
 
-3. Skype Account + headset (audio calls)
+3. Slack Account + headset (audio calls)
 
 4. Create your own [GitHub](https://github.com/) account. Follow this [guideline](https://help.github.com/articles/set-up-git) to setup your account. Also you can read further about Git in [Try Git](https://try.github.io/levels/1/challenges/1) or [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 
-5. Fork this repo https://github.com/juanpablopizarro/java-bootcamp-2016 to use as a base to host the project code. Read [this](https://help.github.com/articles/fork-a-repo/) for instructions.
+5. Fork this repo https://github.com/EduardoUTN/java-bootcamp-2016 to use as a base to host the project code. Read [this](https://help.github.com/articles/fork-a-repo/) for instructions.
 
 → [index](#index)
 
@@ -116,7 +116,7 @@ The boot camp is organized in the following way:
 
 3. One boot camp chat will be created for feedback and technical assistance:
 
-    Bootcamp JAVA 2016 - ALL
+    Bootcamp JAVA 2018 - ALL
 Every person participating in the bootcamp is present here (students and tutors). Here is the place to ask for technical assistance!
 
 4. [Team play](http://www.dummies.com/how-to/content/ten-qualities-of-an-effective-team-player.html) is encouraged but the work will be evaluated per person.
@@ -160,7 +160,7 @@ You will commit all your code on a daily basis, when you finish your practice.
 
   - [JVM](http://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html#t1s1). See: "Java Technology and the JVM" and "Describing Garbage Collection"
 
-#### Topic 0: Introduction to Object Oriented Programming Concepts (2 days)####
+#### Topic 0: Introduction to Object Oriented Programming Concepts (4 days)####
 
 ##### Reading:
 
@@ -170,9 +170,17 @@ You will commit all your code on a daily basis, when you finish your practice.
 
 3. Explore [Design Patterns](http://www.avajava.com/tutorials/categories/design-patterns). Minimum scope: singleton, factory, abstract factory, strategy, template method, proxy, decorator and builder.
 
-##### Extra documentation:
+##### Extra documentation and Exercises:
 
 * [Design Patterns Card](http://www.mcdonaldland.info/files/designpatterns/designpatternscard.pdf)
+* [OOP Basic Exercises](https://www.hackerrank.com/domains/java/oop/difficulty/easy/page/1 )
+* [Lists](https://www.hackerrank.com/challenges/java-list)
+* [Array List](https://www.hackerrank.com/challenges/java-arraylist)
+* [Phone Book Example](https://www.hackerrank.com/challenges/phone-book)
+* [HashSet](https://www.hackerrank.com/challenges/java-hashset)
+* [Java Dequeue](https://www.hackerrank.com/challenges/java-dequeue/problem)
+* [Java Comparator](https://www.hackerrank.com/challenges/java-comparator)
+* [Java Sort](https://www.hackerrank.com/challenges/java-sort)
 
 
 ##### Practice:
